@@ -14,7 +14,11 @@ TLDR:
 
     - Figma Design & Brand principles
     - DevOps (focus on AWS) 
+    - Design Patterns 
 
 **👷🏻‍♀️ Currently working on:**
 
   - My online portfolio
+    - Coding portfolio
+    - Design
+    - Illustration
