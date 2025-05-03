@@ -1,4 +1,4 @@
-Hi, Aaliyah here 
+Hi, Aaliyah (💁🏻‍♀️ she/her) here 
 
 A coder by day, an aspiring illustrator by night and a nature lover on weekends. 
 
@@ -8,13 +8,13 @@ TLDR:
 
 🇳🇱 Work and live in the Netherlads (B1+ Dutch proficiency) 
 
-💁🏻‍♀️ she/her
 
 **👩🏻‍💻 I'm currently learning:**
 
     - Figma Design & Brand principles
-    - DevOps (focus on AWS) 
     - Design Patterns 
+    - Three.js
+    - Backend skill sharpning
 
 **👷🏻‍♀️ Currently working on:**
 
