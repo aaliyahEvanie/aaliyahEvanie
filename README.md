@@ -14,7 +14,7 @@ TLDR:
     - Figma Design & Brand principles
     - Design Patterns 
     - Three.js
-    - Backend skill sharpning
+    - Sharpening my backend skills
 
 **👷🏻‍♀️ Currently working on:**
 
